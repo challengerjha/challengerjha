@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <strong>Challenger Jha</strong></h1>
-<h3 align="center">Tech Tips • AI Tools • Automation • Short Tutorials</h3>
+<h3 align="center">Full-Stack Developer • Tech Tips • AI Tools • Content Creator</h3>
 
 <br/>
 
