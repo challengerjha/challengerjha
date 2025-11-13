@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Creator-AI%20Tools-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech%20Creator-Full-Stack%20Developer-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/YouTube-1700+ Subs-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/X-800+ Followers-black?style=for-the-badge" />
 </p>
